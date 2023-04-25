@@ -7,3 +7,11 @@
 .hero {
   background-image: linear-gradient(#c847f1, #380231);
 }
+
+.top-bar {
+  padding: 20px;
+}
+
+.top-bar img {
+  width: 130px;
+}
