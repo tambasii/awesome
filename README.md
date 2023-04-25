@@ -9,3 +9,5 @@ Photo by Hannah Nelson: https://www.pexels.com/photo/close-up-photography-of-a-w
 Photo by Reead #: https://www.pexels.com/photo/person-in-teal-ice-cream-print-tank-top-holds-ice-cream-886285/
 
 https://www.freepnglogos.com/pics/tokopedia
+
+Photo by Taiwili Kayan: https://www.pexels.com/photo/photo-of-a-man-in-the-parking-lot-724887/
