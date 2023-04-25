@@ -15,3 +15,59 @@
 .top-bar img {
   width: 130px;
 }
+
+.top-button {
+  float: right;
+}
+
+.top-button a {
+  margin: 0 8px;
+  padding: 8px 20px;
+  border-radius: 50px;
+  background: #fff;
+  color: #333;
+  text-decoration: none !important;
+  border: 2px solid #fff;
+}
+
+.login-btn {
+  background: transparent !important;
+  color: #fff !important;
+}
+
+.top-button a:hover {
+  background: #fff !important;
+  color: #333 !important;
+}
+
+.hero h1 {
+  color: #fff;
+  font-size: 70px;
+  font-weight: bold;
+  margin-top: 12%;
+  letter-spacing: 3px;
+}
+
+.hero p {
+  color: #fff;
+}
+
+.hero.container {
+  margin-top: 13%;
+}
+
+.start-btn {
+  background: transparent;
+  color: white;
+  border: 2px solid #fff;
+  width: 140px;
+  height: 40px;
+  margin-top: 30px;
+  border-radius: 50px;
+}
+
+.home-img img {
+  width: 85px;
+  min-width: 350px;
+  margin-top: 10%;
+}
