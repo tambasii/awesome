@@ -152,3 +152,19 @@
   width: 84%;
   min-width: 350px;
 }
+
+.footer {
+  padding: 50px 0 20px;
+  background-image: linear-gradient(#c847f1, #380231);
+  margin-top: 450px;
+}
+
+.store-icon img {
+  width: 50px;
+  margin: 0 10px 50px;
+}
+
+.store-icon p {
+  color: #fff;
+  font-size: 16px;
+}
